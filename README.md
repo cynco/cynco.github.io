@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## CynCo's Projects
+
+Go to the rendered version of this page at https://cynco.github.io/
 
 You can use the [editor on GitHub](https://github.com/cynco/cynco.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
